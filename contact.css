@@ -1,0 +1,13 @@
+/*contact style*/
+p{
+    text-decoration: underline;
+}
+    h2{
+        color: rgb(169, 17, 50);
+    }
+body{
+    background-image:url(watercolor-adventure-background_52683-83928.avif) ;}
+    footer{
+        text-align: center;
+        text-decoration: underline;
+    }
